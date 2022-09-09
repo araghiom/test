@@ -22,7 +22,7 @@ const OrdersPage = ({title}:any) => {
       <Toolbar sx={{height:100}}/>
       <ContentWrapper>
         <Paper sx={{ p: 2, display: "flex", flexDirection: "column" }}>
-          <Orders />
+         
         </Paper>
       </ContentWrapper>
     </Box>
